@@ -5,7 +5,7 @@ about: We will try our best to check Github, but forum.cursor.com is our main si
 title: ''
 labels: ''
 assignees: ''
-
+jjj
 ---
 
 NOTE: We will try our best to check Github Issues, but [forum.cursor.com](https://forum.cursor.com/) is our main site for bug reports / user feedback. We'd recommend you post there for the fastest response.
